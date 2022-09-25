@@ -1,2 +1,2 @@
 # sheesh
-bevprog házi 1.1
+bevprog házi 1
